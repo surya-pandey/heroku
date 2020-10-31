@@ -1,3 +1,7 @@
 django
 gunicorn
 django-heroku
+cv2
+numpy
+pytesseract
+matplotlib
